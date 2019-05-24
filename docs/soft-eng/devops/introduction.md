@@ -1,0 +1,1 @@
+![Screenshot](kafka-logo.png)

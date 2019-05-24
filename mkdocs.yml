@@ -1,0 +1,12 @@
+site_name: My learning path, Carlos Dávila-Cordero
+
+theme: 
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+pages:
+  - 'Home': 'index.md'
+  - 'Software Engineering':
+    - 'DevOps':
+      - 'soft-eng/devops/introduction.md'
