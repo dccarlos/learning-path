@@ -1,4 +1,4 @@
-site_name: My learning path, Carlos Dávila-Cordero
+site_name: My learning path
 
 theme: 
   name: material
@@ -9,4 +9,4 @@ pages:
   - 'Home': 'index.md'
   - 'Software Engineering':
     - 'DevOps':
-      - 'soft-eng/devops/introduction.md'
+      - Introduction to DevOps: 'soft-eng/devops/introduction.md'
